@@ -1,1 +1,0 @@
-X=MsgBox("There was a bug in v1.1 that won't let you upload or download files. It is fixed, sorry for the inconvinience!",0+64,"Information") 
