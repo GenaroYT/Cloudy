@@ -1,1 +1,1 @@
-Dialog.Message("Servers down FOREVER", "The servers are going to be down forever in a couple of minutes, so upload and download files as fast as you can... Bye Bye :D", MB_OK, MB_ICONINFORMATION, MB_DEFBUTTON1);
+Dialog.Message("Servers down FOREVER", "The servers are going to be down forever in a couple of minutes, so upload and download files as fast as you can... Bye Bye :D (They will be down because of nobody using the program)", MB_OK, MB_ICONINFORMATION, MB_DEFBUTTON1);
