@@ -1,0 +1,1 @@
+Dialog.Message("Servers down in minutes", "The servers are going to be down in a couple of minutes, so upload and download files as fast as you can...", MB_OK, MB_ICONINFORMATION, MB_DEFBUTTON1);
