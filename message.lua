@@ -1,0 +1,1 @@
+Dialog.Message("Servers down in minutes", "The servers are down for maintainment. Uploading or downloading files will not work temporarely.", MB_OK, MB_ICONINFORMATION, MB_DEFBUTTON1);
